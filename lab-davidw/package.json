@@ -1,0 +1,20 @@
+{
+  "name": "lab-davidw",
+  "version": "1.0.0",
+  "description": "demo of tools and context",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "node",
+    "Call",
+    "Bind",
+    "Apply"
+  ],
+  "author": "DavidGWheeler",
+  "license": "MIT"
+}
